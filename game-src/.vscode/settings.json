@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"config.h": "c",
+		"stdio.h": "c",
+		"gb.h": "c",
+		"stdbool.h": "c",
+		"tile_empty.h": "c",
+		"tiles_numbers.h": "c"
+	}
+}
